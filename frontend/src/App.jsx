@@ -3,7 +3,7 @@ import ValidationRules from "./components/ValidationRules"
 function App() {
 
   const login = () => {
-    window.location.href = "http://localhost:5000/salesforce/login"
+    window.location.href = "https://salesforce-validation-backend.onrender.com/salesforce/login"
   }
 
   return (
